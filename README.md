@@ -150,7 +150,7 @@
   <a href="https://github.com/Shifat1667">
     <img src="https://img.shields.io/badge/GitHub-Shifat1667-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/shifat1667">
+  <a href="https://www.linkedin.com/in/foysal-hasan-shifat-311b68295/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/foysalhasan.shifat.9">
