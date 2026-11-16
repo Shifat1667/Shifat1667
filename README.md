@@ -10,8 +10,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shifat1667&color=00F5D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Shifat1667?style=flat-square&color=0F4C5C&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Shifat1667?style=flat-square&color=0F4C5C&labelColor=0D1117&label=STARS" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/Shifat1667/cpu-scheduling-optimizer?style=flat-square&color=0F4C5C&labelColor=0D1117&label=LAST%20COMMIT" alt="Last commit"/>
 
 </div>
 
@@ -80,48 +79,45 @@ fun_fact:   I debug race conditions for breakfast
 <tr>
 <td width="50%" valign="top">
 
-### CPU Scheduling Optimizer PRO
+### [CPU Scheduling Optimizer PRO](https://github.com/Shifat1667/cpu-scheduling-optimizer)
 
 Real-time process monitoring, five CPU scheduling algorithms, and a multi-criteria optimization engine with an interactive GUI.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/OS-0F4C5C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0F4C5C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C++-0F4C5C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OS-0F4C5C?style=flat-square&labelColor=0D1117"/>
 
-<a href="https://github.com/Shifat1667/cpu-scheduling-optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shifat1667&repo=cpu-scheduling-optimizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=C9D1D9" alt="CPU Scheduling Optimizer"/>
-</a>
+<a href="https://github.com/Shifat1667/cpu-scheduling-optimizer"><img src="https://img.shields.io/github/stars/Shifat1667/cpu-scheduling-optimizer?style=flat-square&color=00F5D4&labelColor=0D1117"/></a>
+<a href="https://github.com/Shifat1667/cpu-scheduling-optimizer"><img src="https://img.shields.io/github/forks/Shifat1667/cpu-scheduling-optimizer?style=flat-square&color=00F5D4&labelColor=0D1117"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### xv6 System Calls Project
+### [xv6 System Calls Project](https://github.com/Shifat1667/Cse323-Project)
 
 Extended the xv6 kernel with `getchildren()` and `trace()` system calls for better process management and debugging.
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/xv6-0F4C5C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kernel-0F4C5C?style=flat-square"/>
+<img src="https://img.shields.io/badge/C-0F4C5C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/xv6-0F4C5C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Kernel-0F4C5C?style=flat-square&labelColor=0D1117"/>
 
-<a href="https://github.com/Shifat1667/Cse323-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shifat1667&repo=Cse323-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=C9D1D9" alt="xv6 Project"/>
-</a>
+<a href="https://github.com/Shifat1667/Cse323-Project"><img src="https://img.shields.io/github/stars/Shifat1667/Cse323-Project?style=flat-square&color=00F5D4&labelColor=0D1117"/></a>
+<a href="https://github.com/Shifat1667/Cse323-Project"><img src="https://img.shields.io/github/forks/Shifat1667/Cse323-Project?style=flat-square&color=00F5D4&labelColor=0D1117"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Nexus CRM System
+### [Nexus CRM System](https://github.com/Shifat1667/Nexus_Crm)
 
 A complete CRM solution with customer management, analytics, and reporting.
 
-<img src="https://img.shields.io/badge/Full_Stack-0F4C5C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Database-0F4C5C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack-0F4C5C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Database-0F4C5C?style=flat-square&labelColor=0D1117"/>
 
-<a href="https://github.com/Shifat1667/Nexus_Crm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shifat1667&repo=Nexus_Crm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=C9D1D9" alt="Nexus CRM"/>
-</a>
+<a href="https://github.com/Shifat1667/Nexus_Crm"><img src="https://img.shields.io/github/stars/Shifat1667/Nexus_Crm?style=flat-square&color=00F5D4&labelColor=0D1117"/></a>
+<a href="https://github.com/Shifat1667/Nexus_Crm"><img src="https://img.shields.io/github/forks/Shifat1667/Nexus_Crm?style=flat-square&color=00F5D4&labelColor=0D1117"/></a>
 
 </td>
 <td width="50%" valign="middle" align="center">
@@ -130,9 +126,7 @@ A complete CRM solution with customer management, analytics, and reporting.
 
 Currently working on additional systems programming and optimization projects.
 
-<a href="https://github.com/Shifat1667?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse_all_repositories-00F5D4?style=for-the-badge&logoColor=0D1117&labelColor=0D1117&color=00F5D4" alt="All repositories"/>
-</a>
+**[Browse all repositories →](https://github.com/Shifat1667?tab=repositories)**
 
 </td>
 </tr>
@@ -148,20 +142,8 @@ Currently working on additional systems programming and optimization projects.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shifat1667&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Shifat1667&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" width="70%"/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shifat1667&theme=tokyonight" alt="Profile details" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shifat1667&theme=tokyonight" alt="Repos per language" width="48%"/>
-
-</div>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shifat1667&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
 </div>
 
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
@@ -169,10 +151,10 @@ Currently working on additional systems programming and optimization projects.
 
 <div align="center">
 
-<a href="https://github.com/Shifat1667"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/foysal-hasan-shifat-311b68295/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/foysalhasan.shifat.9"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00F5D4" alt="Facebook"/></a>
-<a href="mailto:foysalshifat@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5D4" alt="Email"/></a>
+<a href="https://github.com/Shifat1667"><img src="https://img.shields.io/badge/GitHub-Shifat1667-0D1117?style=for-the-badge&labelColor=0F4C5C" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/foysal-hasan-shifat-311b68295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&labelColor=0F4C5C" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/foysalhasan.shifat.9"><img src="https://img.shields.io/badge/Facebook-Follow-0D1117?style=for-the-badge&labelColor=0F4C5C" alt="Facebook"/></a>
+<a href="mailto:foysalshifat@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&labelColor=0F4C5C" alt="Email"/></a>
 
 <br/><br/>
 
