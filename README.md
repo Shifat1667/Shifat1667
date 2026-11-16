@@ -143,7 +143,7 @@ Currently working on additional systems programming and optimization projects.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-repository?username=Shifat1667&theme=tokyonight" alt="Commits per repository" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shifat1667&theme=tokyonight" alt="Stats" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shifat1667&theme=tokyonight" alt="Productive time" width="48%"/>
 
 <br/>
