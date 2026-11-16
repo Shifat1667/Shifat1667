@@ -138,8 +138,13 @@ Currently working on additional systems programming and optimization projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shifat1667&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifat1667&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Top Languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shifat1667&theme=tokyonight" alt="Profile details" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shifat1667&theme=tokyonight" alt="Repos per language" width="48%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-repository?username=Shifat1667&theme=tokyonight" alt="Commits per repository" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shifat1667&theme=tokyonight" alt="Productive time" width="48%"/>
 
 <br/>
 
