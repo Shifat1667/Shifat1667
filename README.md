@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F4C5C,100:00F5D4&height=220&section=header&text=Foysal%20Hasan%20Shifat&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Engineer%20%7C%20OS%20%26%20Kernel%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F4C5C,100:00F5D4&height=220&section=header&text=Foysal%20Hasan%20Shifat&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Engineer%20-%20OS%20Kernel%20Developer%20-%20Problem%20Solver&descSize=18&descAlignY=60" alt="Header" width="100%"/>
 
 <a href="https://github.com/Shifat1667">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=720&height=45&lines=Building+efficient+CPU+scheduling+systems;Writing+kernel+code+in+C+%26+xv6;Optimizing+OS+resources+and+performance;Always+learning%2C+always+optimizing" alt="Typing animation" />
@@ -10,6 +10,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shifat1667&color=00F5D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Shifat1667?style=flat-square&color=0F4C5C&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
 <img src="https://img.shields.io/github/last-commit/Shifat1667/cpu-scheduling-optimizer?style=flat-square&color=0F4C5C&labelColor=0D1117&label=LAST%20COMMIT" alt="Last commit"/>
 
 </div>
